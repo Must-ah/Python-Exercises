@@ -1,2 +1,2 @@
 # Python-Exercises
-Coding Exercises for Python following [Python Workou](https://www.manning.com/books/python-workout)
+Coding Exercises for Python following [Python Workout](https://www.manning.com/books/python-workout)
