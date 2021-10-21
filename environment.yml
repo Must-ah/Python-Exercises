@@ -1,0 +1,4 @@
+name: /media/mustah/Manning/LiveBook/Python-Workout/envs
+channels:
+  - defaults
+prefix: /media/mustah/Manning/LiveBook/Python-Workout/envs
